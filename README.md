@@ -8,9 +8,9 @@ The project was to create a page with your current knowledge for your portfolio.
 
 **DISCLAIMER** Trust the process! 🤪😅🤩🥳
 
-[MOST CURRENT VERSION OF PORTFOLIO as of 04/05/2021 Repo](https://github.com/britt-bot/08-Updated_Portfolio)
+[MOST CURRENT VERSION OF PORTFOLIO (as of 04/05/2021) Repo](https://github.com/britt-bot/08-Updated_Portfolio)
 
-[MOST CURRENT VERSION OF PORTFOLIO as of 04/05/2021 Deployed](https://britt-bot.github.io/08-Updated_Portfolio/)
+[MOST CURRENT VERSION OF PORTFOLIO (as of 04/05/2021) Deployed](https://britt-bot.github.io/08-Updated_Portfolio/)
 
 
 ## Table of Contents (Optional)
