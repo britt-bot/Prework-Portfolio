@@ -44,8 +44,6 @@ Open the desired web browser and go to the page url for either the Repo or the D
 This application is used to show potential clients and employers my skills, by demonstrating them in both, the front and back-end design of this page. This page is also showcasing the previous projects I have worked on, which show various other skill sets gained from both solo and team work environments. 
 
 
-To add a screenshot:
-
 ![Top of Page](img/topscrnshot.png)
 
 ![Middle of Page](img/midscrnshot.png)
