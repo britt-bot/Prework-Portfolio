@@ -4,7 +4,7 @@
 
 This page is one of my first "projects". It is one of the Prework Assignments during the bootcamp course.
 
-The project was to create a page with your current knowledge for your portfolio. 
+The project was to use your current knowledge to create your portfolio page. 
 
 **DISCLAIMER** Trust the process! 🤪😅🤩🥳
 
