@@ -2,20 +2,23 @@
 
 ## Description 
 
-This page is one of my first "projects". It is one of the prework assignments during the bootcamp course.
+This page is one of my first "projects". It is one of the prework assignments during the bootcamp course. The project was to use your current knowledge to create your portfolio page. **DISCLAIMER** Trust the process! 🤪😅🤩🥳
 
-The project was to use your current knowledge to create your portfolio page. 
+A portfolio is a gathering of completed and in progress works, that are used to showcase a skilled person's end results and/or work styles. This is part of the evolution of my skills through the progression shown in my portfolio.
 
-**DISCLAIMER** Trust the process! 🤪😅🤩🥳
 
-[MOST CURRENT VERSION OF PORTFOLIO (as of 04/05/2021) Repo](https://github.com/britt-bot/08-Updated_Portfolio)
+Here are the links to the updated versions of my Portfolio:
 
-[MOST CURRENT VERSION OF PORTFOLIO (as of 04/05/2021) Deployed](https://britt-bot.github.io/08-Updated_Portfolio/)
+[Portfolio Repo](https://github.com/britt-bot/08-updated_portfolio)
+
+[Updated Portfolio Repo](https://github.com/britt-bot/16-Updated_Portfolio)
+
+[REACT Portfolio Repo](https://github.com/britt-bot/20-React_Portfolio)
 
 
 ## Table of Contents (Optional)
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+This table of contents is to make it easy for users to find what they need.
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -34,7 +37,8 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+This application is used to show potential clients and employers my skills, by demonstrating them in both, the front and back-end design of this page. This page is also showcasing the previous projects I have worked on, which show various other skill sets gained from both solo and team work environments. 
+
 
 To add a screenshot:
 
