@@ -11,7 +11,7 @@ This page was one of my first "projects", and you can follow the progression of 
 
 Here are the links to the updated versions of my Portfolio:
 
-[Portfolio Repo](https://github.com/britt-bot/02-Portfolio)
+[Portfolio Repo](https://github.com/britt-bot/Portfolio)
 
 [Portfolio 2 Repo](https://github.com/britt-bot/08-updated_portfolio)
 
