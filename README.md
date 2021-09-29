@@ -1,22 +1,25 @@
-# Prework-Portfolio
+# Prework-Portfolio... The Prequel?
 
 ## Description 
-
-This page is one of my first "projects". It is one of the prework assignments during the bootcamp course. The project was to use your current knowledge to create your portfolio page. **DISCLAIMER** Trust the process! 🤪😅🤩🥳
 
 A portfolio is a gathering of completed and in progress works, that are used to showcase a skilled person's end results and/or work styles. This is part of the evolution of my skills through the progression shown in my portfolio.
 
 
+This page is one of my first "projects", follow the progression of my skills with the version linked below. This project was to use your current knowledge and create your portfolio page. **DISCLAIMER** Trust the process! 🤪😅🤩🥳
+
+
 Here are the links to the updated versions of my Portfolio:
 
-[Portfolio Repo](https://github.com/britt-bot/08-updated_portfolio)
+[Portfolio Repo](https://github.com/britt-bot/02-Portfolio)
 
-[Updated Portfolio Repo](https://github.com/britt-bot/16-Updated_Portfolio)
+[Portfolio 2 Repo](https://github.com/britt-bot/08-updated_portfolio)
+
+[Portfolio 3 Repo](https://github.com/britt-bot/16-Updated_Portfolio)
 
 [REACT Portfolio Repo](https://github.com/britt-bot/20-React_Portfolio)
 
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 This table of contents is to make it easy for users to find what they need.
 
